@@ -1,0 +1,30 @@
+
+.item {
+    width: 440px;
+    height: 50px;
+    font-size: 30px;
+    background-color: rgb(211, 211, 211);
+    text-align: left;
+    border-radius: 10px;
+    margin: 20px;
+    color: rgb(20, 19, 19);
+    margin-left: 35px;
+}
+.star {
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+    background-color: white;
+}
+.checkbox {
+    margin-left : 10px;
+    font-size: 30px;
+    margin-right: 30px;
+}
+.cross {
+    text-decoration: line-through;
+    color: gray;
+    background-color: rgb(255, 255, 255);
+}
